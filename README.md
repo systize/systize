@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+# ts very special!11!!11
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+he/him
+<br>
+i like aviation, and i work on inqi.dev
+<br>
+oh wow look its a profile
 
-</body>
-</html>
-
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 <!--
 **invalidhater/invalidhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
